@@ -1,0 +1,46 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÈ†˜øÿÿÿÿ
+f	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ž©™­
+e	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†™h
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·§¸¸úÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’„¾—
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÜ•Ÿ
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÿ´G
+0
+java:S1220""Move this file to a named package.
+M
+java:S1854"8Remove this useless assignment to local variable "CAMB".(–ÿ´G
+Y
+java:S1854">Remove this useless assignment to local variable "configDesa".(Œ¦Áõøÿÿÿÿ
+Y
+java:S1854">Remove this useless assignment to local variable "configProd".(Ãß·îúÿÿÿÿ
+Y
+java:S1854">Remove this useless assignment to local variable "configTest".(ãÒÉ¿úÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(ãÒÉ¿úÿÿÿÿ
+J
+java:S1481"/Remove this unused "configTest" local variable.(ãÒÉ¿úÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(Ãß·îúÿÿÿÿ
+J
+java:S1481"/Remove this unused "configProd" local variable.(Ãß·îúÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(Œ¦Áõøÿÿÿÿ
+J
+java:S1481"/Remove this unused "configDesa" local variable.(Œ¦Áõøÿÿÿÿ
+@
+java:S1481	"*Remove this unused "XTEST" local variable.(Ž©™­
+?
+java:S1481
+"*Remove this unused "XDESA" local variable.(†™h
+E
+java:S1481"*Remove this unused "CSERV" local variable.(·§¸¸úÿÿÿÿ
+@
+java:S1481"*Remove this unused "CUSER" local variable.(’„¾—
+>
+java:S1481")Remove this unused "CAMB" local variable.(–ÿ´G
+B
+java:S1197",Move the array designators [][] to the type.(¢£ÙÞ
+E	java:S106"+Replace this use of System.out by a logger.(ÔšüÊøÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(óÞò³
